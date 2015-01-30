@@ -1,0 +1,14 @@
+{
+  "name": "authenticate",
+  "version": "0.0.1",
+  "description": "验证的模块",
+  "main": "index.js",
+  "keywords": [
+    "authenticate"
+  ],
+  "author": "walter",
+  "license": "ISC",
+ "dependencies": {
+    "mongoose": "^3.8.22" 
+  }
+}
